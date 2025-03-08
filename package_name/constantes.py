@@ -1,0 +1,1 @@
+MENSAGEM_INICIAL = "Olá!"
